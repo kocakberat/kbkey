@@ -1,2 +1,2 @@
 # kbkey
-custom crypto key based on a WaveShare ESP32-S3 mini Development Board for password encryption/decryption/generation in rust  
+Hardware password manager using ESP32-S3 with AES-256 encryption, hardware RNG implemented in Rust
